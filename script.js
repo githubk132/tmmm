@@ -187,5 +187,5 @@ movie.go();
 
 movie.actors.greeting.addEventListener('click', function (evt) {
   console.log('opening go blog...');
-  window.open('https://githubk132.github.io/thinguyen/');
+  window.open('https://githubk132.github.io/tm/');
 });
